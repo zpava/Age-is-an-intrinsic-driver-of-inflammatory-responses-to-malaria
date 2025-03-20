@@ -1,6 +1,6 @@
 ---
 title: "Vd2 expression profile of children vs adults before and after malaria challenge"
-author: "Z. Pava"
+author: "Z Pava"
 date: '2023-14-08'
 output:
   html_document: default
